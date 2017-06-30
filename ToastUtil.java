@@ -1,5 +1,3 @@
-package com.macxen.utils;
-
 import android.content.Context;
 import android.widget.Toast;
 
